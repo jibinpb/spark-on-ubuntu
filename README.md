@@ -35,4 +35,19 @@ Go to [Apache Spark Download Page](http://spark.apache.org/downloads.html) and g
 
 ![Apache Spark Download Page](images/ApacheSparkDownloadPage.png)
 
-Here, the url is `http://d3kbcqa49mib13.cloudfront.net/spark-2.1.0-bin-hadoop2.7.tgz`
+Here, the url is `http://d3kbcqa49mib13.cloudfront.net/spark-2.1.0-bin-hadoop2.7.tgz` and the command will be
+
+```
+wget "http://d3kbcqa49mib13.cloudfront.net/spark-2.1.0-bin-hadoop2.7.tgz"
+```
+
+Next step is extracting the downloaded package using tar command.
+
+```
+tar xvf spark-2.1.0-bin-hadoop2.7.tgz
+```
+
+It's better to rename the folder as `spark` for easiness
+```
+mv spark-2.1.0-bin-hadoop2.7 spark
+```
