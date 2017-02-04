@@ -26,5 +26,8 @@ sudo apt install scala
 
 The scala version can be confirmed by running,
 ```
-sudo apt install scala
+scala -version
 ```
+
+##3.Get 
+[Apache Spark Download Page](images/ApacheSparkDownloadPage.png)
