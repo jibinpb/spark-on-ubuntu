@@ -63,4 +63,4 @@ If all everything is fine, Spark shell should be started as
  
 ![Apache Spark Download Page](images/Spark-ShellCommand.png)
 
-The Web UI can be browsable using the url provided by Spark-Shell
+The Web UI can be browsable using the url(green underline) provided by Spark-Shell
