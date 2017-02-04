@@ -30,4 +30,4 @@ scala -version
 ```
 
 ##3.Get 
-[Apache Spark Download Page](images/ApacheSparkDownloadPage.png)
+![Apache Spark Download Page](images/ApacheSparkDownloadPage.png)
